@@ -1,13 +1,21 @@
-# Nanshan You
+<div style="overflow: hidden;">
 
-<img src="profile.jpg" alt="Nanshan You" style="float: right; width: 150px; margin-left: 20px;" />
+  <div style="float: left; width: 70%;">
+    # Nanshan You
 
-**Assistant Professor**  
-Key Laboratory for Resource Use and Environmental Remediation, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences  
-Beijing, China  
+    **Assistant Professor**  
+    Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS)  
+    Beijing, China  
 
-**Email:** youns@igsnrr.ac.cn  
-**Phone:** (+86) 13120009232  
+    **Email:** youns@igsnrr.ac.cn  
+    **Phone:** (+86) 13120009232  
+  </div>
+
+  <div style="float: right; width: 30%;">
+    <img src="profile.jpg" alt="Nanshan You" style="width: 150px; border-radius: 50%;">
+  </div>
+
+</div>
 
 ---
 
