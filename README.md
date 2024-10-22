@@ -23,17 +23,17 @@ Beijing, China
 06/2022—08/2024  
 
 ## Education
-### Ph.D. in Geographical Sciences  
+### Ph.D. 
 **Chinese Academy of Sciences**  
 09/2018—06/2022
-### M.Sc. in Environmental Engineering  
+### M.Sc.
 **Peking University**  
 09/2015—06/2018
-### B.Sc. in Geographical Sciences  
+### B.Sc.
 **Wuhan University of Technology**  
 09/2011—06/2015
 
-## Publications
+## Selected Publications
 - **You Nanshan**, et al. "Rapid early-season maize mapping without crop labels." Remote Sensing of Environment, 2023 (**ESI highly cited**).
 - **You Nanshan**, et al. "Examining earliest identifiable timing of crops." ISPRS Journal of Photogrammetry and Remote Sensing, 2020 (**ESI highly cited**).
 - **You Nanshan**, et al. "The 10-m crop type maps in Northeast China." Scientific Data, 2021 (**ESI highly cited**).
