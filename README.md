@@ -1,5 +1,7 @@
 # Nanshan You
 
+<img src="profile.jpg" alt="Nanshan You" style="float: right; width: 150px; margin-left: 20px;" />
+
 **Assistant Professor**  
 Key Laboratory for Resource Use and Environmental Remediation, Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences  
 Beijing, China  
