@@ -23,14 +23,11 @@ Beijing, China
 06/2022—08/2024  
 
 ## Education
-### Ph.D. 
-**University of Chinese Academy of Sciences**  
+### Ph.D.: **University of Chinese Academy of Sciences**  
 09/2018—06/2022
-### M.Sc.
-**Peking University**  
+### M.Sc.: **Peking University**  
 09/2015—06/2018
-### B.Sc.
-**Wuhan University of Technology**  
+### B.Sc.: **Wuhan University of Technology**  
 09/2011—06/2015
 
 ## Selected Publications
