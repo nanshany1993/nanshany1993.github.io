@@ -3,7 +3,7 @@
 <img src="profile.jpg" alt="Nanshan You" style="float: right; width: 150px; margin-left: 20px;" />
 
 **Assistant Professor**  
-**Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS)**  
+Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS)  
 Beijing, China 
 
 **Email:** youns@igsnrr.ac.cn  
