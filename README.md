@@ -1,26 +1,13 @@
-<table>
-  <tr>
-    <td>
+# Nanshan You
 
-    # Nanshan You
+<img src="profile.jpg" alt="Nanshan You" style="float: right; width: 150px; margin-left: 20px;" />
 
-    **Assistant Professor**  
-    Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS)
-    Beijing, China  
+**Assistant Professor**  
+Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS)
+Beijing, China  
 
-    **Email:** youns@igsnrr.ac.cn  
-    **Phone:** (+86) 13120009232  
-
-    </td>
-    <td>
-
-    <img src="profile.jpg" alt="Nanshan You" style="width: 150px; border-radius: 50%;">
-
-    </td>
-  </tr>
-</table>
-
----
+**Email:** youns@igsnrr.ac.cn  
+**Phone:** (+86) 13120009232  
 
 ## Research Interests
 - Observing land use changes using remote sensing, focusing on in-season crop type classification.
