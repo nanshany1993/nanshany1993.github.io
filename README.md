@@ -1,21 +1,24 @@
-<div style="overflow: hidden;">
+<table>
+  <tr>
+    <td>
 
-  <div style="float: left; width: 70%;">
     # Nanshan You
 
     **Assistant Professor**  
-    Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS)  
+    Institute of Geographic Sciences and Natural Resources Research (IGSNRR), Chinese Academy of Sciences (CAS)
     Beijing, China  
 
     **Email:** youns@igsnrr.ac.cn  
     **Phone:** (+86) 13120009232  
-  </div>
 
-  <div style="float: right; width: 30%;">
+    </td>
+    <td>
+
     <img src="profile.jpg" alt="Nanshan You" style="width: 150px; border-radius: 50%;">
-  </div>
 
-</div>
+    </td>
+  </tr>
+</table>
 
 ---
 
