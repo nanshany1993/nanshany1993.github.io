@@ -24,7 +24,7 @@ Beijing, China
 
 ## Education
 ### Ph.D. 
-**Chinese Academy of Sciences**  
+**University of Chinese Academy of Sciences**  
 09/2018—06/2022
 ### M.Sc.
 **Peking University**  
